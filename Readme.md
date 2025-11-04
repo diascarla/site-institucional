@@ -1,20 +1,40 @@
-# Page
+# Code - Site Institucional
 
-## Descrição 📝
+## 📝 Descrição do Projeto
 
-Projeto desenvolvido no curso HTML e CSS na prática da Fundação Bradesco. A proposta era criar uma página web simples utilizando HTML e CSS.
-Na página principal é possível navegar para outras seções clicando nos links, "Clientes", "Sobre" ou "Contato". Ao final da página principal há também uma breve explicação sobre HTML, Tecnologia e Acessibilidade. Ao clicar nos links correspondentes, uma seção com a explicação se abrirá (modal).
+Projeto desenvolvido durante o curso "HTML e CSS na prática" da Fundação Bradesco. O objetivo foi criar uma página web institucional simples, aplicando conceitos fundamentais de HTML5 e CSS3.
 
-Clicando em:
+### ✨ Funcionalidades
 
-    ◽ Clientes - abre uma página com os clientes: Fundação Bradesco, W3C, Escola Virtual e Domínio Público.
-    ◽ Sobre - apresenta a missão e foco da empresa.
-    ◽ Contato - contém um formulário e informações de contato fictícios da empresa.
+- **Navegação Principal:** Links para as seções Home, Clientes, Sobre e Contato.
+- **Modais Informativos:** No rodapé, links que abrem janelas modais com informações sobre HTML, Tecnologia e Acessibilidade.
+- **Páginas Internas:**
+  - **Clientes:** Apresenta os clientes parceiros do projeto.
+  - **Sobre:** Descreve a missão e o foco da empresa fictícia.
+  - **Contato:** Contém um formulário funcional e informações de contato.
 
-## Tecnologias utilizadas
+## 🚀 Tecnologias Utilizadas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-## Layout 💻
+## 🖼️ Layout
+
+Abaixo uma demonstração do layout e da navegação entre as páginas.
 
 ![Layout da página](imagem/page.gif)
+
+## ▶️ Como Executar
+
+Como este é um projeto puramente front-end, não há necessidade de instalação. Siga os passos abaixo:
+
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/diascarla/page-fundacao-bradesco.git
+   ```
+2. Abra a pasta do projeto.
+3. Abra o arquivo `index.html` no seu navegador de preferência.
+
+## ✍️ Autora
+
+Feito por Carla Dias. Entre em contato!
+[!Linkedin](https://www.linkedin.com/in/devcarladias/)
