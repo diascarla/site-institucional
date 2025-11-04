@@ -16,10 +16,5 @@ Clicando em:
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Layout 💻
-<<<<<<< HEAD
 
-<img src="imagem/page.gif">
-=======
-<img src="./imagem/page.gif">
-
->>>>>>> 8d01f98e70a89d2bb643ac1b856de8ce8787f22e
+![Layout da página](imagem/page.gif)
