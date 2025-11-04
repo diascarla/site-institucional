@@ -17,4 +17,4 @@ Clicando em:
 
 ## Layout 💻
 
-<img src="./imagem/page.gif">
+<img src="imagem/page.gif">
