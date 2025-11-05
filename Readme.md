@@ -19,8 +19,6 @@ Projeto desenvolvido durante o curso "HTML e CSS na prática" da Fundação Brad
 
 ## 🖼️ Layout
 
-Abaixo uma demonstração do layout e da navegação entre as páginas.
-
 ![Layout da página](imagem/page.gif)
 
 ## ▶️ Como Executar
@@ -37,4 +35,4 @@ Como este é um projeto puramente front-end, não há necessidade de instalaçã
 ## ✍️ Autora
 
 Feito por Carla Dias. Entre em contato!
-[!Linkedin](https://www.linkedin.com/in/devcarladias/)
+[LinkedIn](https://www.linkedin.com/in/devcarladias/)
