@@ -19,7 +19,7 @@ Projeto desenvolvido durante o curso "HTML e CSS na prática" da Fundação Brad
 
 ## 🖼️ Layout
 
-![Layout da página](imagem/page.gif)
+![Layout da página](./imagem/page.gif)
 
 ## ▶️ Como Executar
 
